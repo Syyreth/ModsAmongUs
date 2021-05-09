@@ -61,7 +61,7 @@ The Guardian is a crewmate role who can protect any player they wish for 10 seco
 
 ## Investigator
 The Investigator is a task based role, and on completion of their tasks, they will be able to investigate the faction of any player. However, if the player is Neutral or Impostor, they will also see who the Investigator is. If the Investigator investigates an Angel, and their target is an Impostor, the Angel will also show as an Impostor. Likewise if they are a crewmate, the Angel will also show as a crewmate. The Investigator also gets false readings from Neutral roles. If they investigate the Executioners target, it will display the same reading as an executioner. If they investigate a doused player, it will give the same reading as an Arsonist, and if they investigate and infected player, it will give the same reading as the Plaguebearer.
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Investigator.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/investigator.png)
 
 ## Swapper
 **Inspiration from TownOfUs Mod**<br/>
