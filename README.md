@@ -15,7 +15,7 @@ Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, bases on Town 
   Chronos <br/>
   Lovers
 
-**Neutral Roles**<br/>
+**Neutral Roles:**<br/>
   Executioner<br/>
   Jester<br/>
   Medusa<br/>
@@ -25,7 +25,7 @@ Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, bases on Town 
   Angel<br/>
   Serial Killer<br/>
 
-**Impostor Roles**<br/>
+**Impostor Roles:**<br/>
   Janitor<br/>
   Morpher<br/>
   Spy<br/>
