@@ -5,8 +5,8 @@ Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, bases on Town 
 
 **Crewmate Roles:**<br/>
   [V.I.P](#v.i.p)<br/>
-  Captain<br/>
-  Vigilante<br/>
+  [Captain](#captain)<br/>
+  [Vigilante](##vigilante)<br/>
   Guardian<br/>
   Investigator<br/>
   Swapper<br/>
