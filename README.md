@@ -58,6 +58,10 @@ The Guardian is a crewmate role who can protect any player they wish for 10 seco
 ## Investigator
 The Investigator is a task based role, and on completion of their tasks, they will be able to investigate the faction of any player. However, if the player is Neutral or Impostor, they will also see who the Investigator is. If the Investigator investigates an Angel, and their target is an Impostor, the Angel will also show as an Impostor. Likewise if they are a crewmate, the Angel will also show as a crewmate. The Investigator also gets false readings from Neutral roles. If they investigate the Executioners target, it will display the same reading as an executioner. If they investigate a doused player, it will give the same reading as an Arsonist, and if they investigate and infected player, it will give the same reading as the Plaguebearer.
 
+## Swapper
+**Inspiration from TownOfUs Mod**<br/>
+The Swapper is a role which activates in meetings. The Swapper can swap around 2 votes of any players and change who potentially gets voted out. However, if none of the Swapper's targets gets voted out, then the 2 players will switch bodies for the next round, changing how they look and their name. Once the next meeting starts, they will change place.
+
 ## Engineer
 **Inspiration from the ExtraRoles Mod**<br/>
 The Engineer is a crewmate which gains the ability to vent. Once per game, the Engineer can choose to repair any sabotage in the game, repairing it instantly from anywhere in the map.
