@@ -40,19 +40,19 @@ FlashBang
 
 ## Crewmate Roles:
 ### V.I.P
-**Inspiration from Town of Salem**
+**Inspiration from Town of Salem**\n
 The V.I.P is an important crewmate role which needs to be kept alive in order for crewmates to win. If the V.I.P ever dies, the Impostors win, and everyone else loses. All the crewmates will know the identity of the impostor from the start, whereas Impostors and Neutrals will be left unknown to the information. The goal of the crew is to win the game whilst keeping the V.I.P alive.
 
 ### Captain
-**Inspiration from Town of Salem**
+**Inspiration from Town of Salem**\n
 The Captain is an unknown player who plays the game as a normal Crewmate. In meetings, they can reveal themselves to every other player in the game, allowing their voting power to be tripled, and having every vote they do count as 3. However once a Captain is revealed, they cannot fix non-essential sabotages (Lights/Comms) and they are unable to protected by the Guardian.
 
 ### Vigilante
-**Inspiration from Town of Salem and assistance from the Woodi-Sherrif Mod**
+**Inspiration from Town of Salem and assistance from the Woodi-Sherrif Mod**\n
 The Vigilante is a crewmate which is capable of killing any other player in the game. Their duty is to kill all the impostors. If they accidentally kill a crewmate, they will kill the player and alongside it, kill themselves.
 
 ### Guardian
-**Inspiration from Ottomated's Mod**
+**Inspiration from Ottomated's Mod** \n
 The Guardian is a crewmate role who can protect any player they wish for 10 seconds. In those 10 seconds, any attack towards the player is negated, and their shield will be broken. Any player that tried to attack them will have their ability put back on cooldown, but it will have had no effect.
 
 ### Investigator
