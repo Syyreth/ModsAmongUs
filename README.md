@@ -1,2 +1,2 @@
 # Syyreth's ModsAmongUs Among Us Modpack
-Syyreth's ModsAmongUs Modpack
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/New%20Roles.PNG)
