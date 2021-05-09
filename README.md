@@ -3,16 +3,16 @@
 
 Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, bases on Town Of Salem
 
-**Crewmate Roles:**
-V.I.P
-Captain
-Vigilante
-Guardian
-Investigator
-Swapper
-Engineer
-Visionary
-Chronos
+**Crewmate Roles:**<br/>
+V.I.P<br/>
+Captain<br/>
+Vigilante<br/>
+Guardian<br/>
+Investigator<br/>
+Swapper<br/>
+Engineer<br/>
+Visionary<br/>
+Chronos <br/>
 Lovers
 
 **Neutral Roles**
