@@ -7,32 +7,32 @@ Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, bases on Town 
   [V.I.P](#vip)<br/>
   [Captain](#captain)<br/>
   [Vigilante](#vigilante)<br/>
-  Guardian<br/>
-  Investigator<br/>
-  Swapper<br/>
-  Engineer<br/>
-  Visionary<br/>
-  Chronos <br/>
-  Lovers
+  [Guardian](#guardian)<br/>
+  [Investigator](#investigator)<br/>
+  [Swapper](#swapper)<br/>
+  [Engineer](#engineer)<br/>
+  [Visionary](#visionary)<br/>
+  [Chronos](#chronos) <br/>
+  [Lovers](#lovers)
 
 **Neutral Roles:**<br/>
-  Executioner<br/>
-  Jester<br/>
-  Medusa<br/>
-  Arsonist<br/>
-  Ghoul<br/>
-  Plaguebearer<br/>
-  Angel<br/>
-  Serial Killer<br/>
+  [Executioner](#executioner)<br/>
+  [Jester](#jester)<br/>
+  [Medusa](#medusa)<br/>
+  [Arsonist](#arsonist)<br/>
+  [Ghoul](#ghoul)<br/>
+  [Plaguebearer](#plaguebearer)<br/>
+  [Angel](#angel)<br/>
+  [Serial Killer](#serial-killer)<br/>
 
 **Impostor Roles:**<br/>
-  Janitor<br/>
-  Morpher<br/>
-  Spy<br/>
-  Consort<br/>
-  The Stealth<br/>
-  Graverobber<br/>
-  FlashBang<br/>
+  [Janitor](#janitor)<br/>
+  [Morpher](#morpher)<br/>
+  [Spy](#spy)<br/>
+  [Consort](#consort)<br/>
+  [The Stealth](#the-stealth)<br/>
+  [Graverobber](#graverobber)<br/>
+  [FlashBang](#flashbang)<br/>
 
 # Download
 
