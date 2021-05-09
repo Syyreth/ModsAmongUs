@@ -98,3 +98,36 @@ The Ghoul is a neutral role who's ability gets granted after death. Once a Ghoul
 **Based off Town of Salem**
 The Plaguebearer is a neutral role who is able to infect other players. Each round, the Plaguebearer can infect as many alive people they have infected previously, starting off with 1 Infect in the first round. If an infected player dies, the Plaguebearer will get 1 less opportunity to infect a player. Once everyone in the game has been infected, the Plaguebearer becomes the Pestillence, the Horseman of the Apocalypse and is able to kill players with a 3 second cooldown. If the impostor dies, the Plaguebearer/Pestillence will remain until the end. In a 1v1 situation between the Plaguebearer and the Impostor, the Impostor will win, however in a 1v1 situation between the Pestillence and the Impostor, the Pestillence will win instead.
 
+### Angel
+**Based off Town of Salem**
+The Angel is a neutral role which aligns with the faction of their target, whether they are Impostor or Crewmate. Their main purpose is to keep their target alive. They can only protect their target twice in the whole game, once in a meeting, and once in the game. When a player is protected in the game, they will receive a 60 second immunity which doesn't break until after the time is up. When a player is protected in the meeting, they are safe from getting voted out, and getting murdered by the Arsonist. The Angel will win with whatever faction their target is in, as long as their target remains alive at the end of the game.
+
+### Serial Killer
+**Based off Town of Salem**
+The Serial Killer is a neutral role which can murder players alongside the Impostors, but are working against them. The Serial Killer has its own win condition of being alive until the end. In a 1v1 situation against the Impostors, the Serial Killer will win, and they will keep going if the Impostor gets voted out in the middle of the game.
+
+## Impostor Roles
+### Janitor
+**Based off Town of Salem**
+The Janitor is an impostor role which also has the ability to remove a body from the game. The Clean ability and the Kill button share a cooldown, meaning if one ability is used, both will go on cooldown, so the impostor can choose if they want to clean a body, or kill a player.
+
+### Morpher
+**Based off The Morphling from Ottomated's Mod**
+The Morpher is a role which can sample any player in a game. After a certain amount of time, they can transform into the sampled player and imitate them for a short period of time. However the Morpher cannot vent.
+
+### Spy
+The Spy is a role which can place down a camera anywhere in the map which can ONLY be seen by Impostors. The placing button shares the same cooldown as the kill button so at the start of a round, the impostor must choose if they want to play first or kill first. Each impostor will then get access to view button and can access the Camera to see what's going on. If the Spy remains alone in Admin for 60 seconds in total (not consecutively), they can then Bug the Admin Map, giving each Impostor Remote access through their sabotage map.
+
+### Consort
+**Based off Town of Salem**
+The Consort is a role which can roleblock other players in meetings. If a player is roleblocked, they will lose access to any of their abilities, and will be unable to report bodies for the round until a meeting is called.
+
+### The Stealth
+The Stealth is a role which can temporarily go invisible for a short period of time, and being able to perform sneaky kills. On the Stealth's screen, they will become translucent, but for everyone else, they will go completely invisible. The Stealth is unable to vent.
+
+### Graverobber
+The Graverobber is a role which can move dead bodies. The Graverobber is able to drag around a dead body and move it to any location they wish, being able to drop it whenever. Whilst a body is being dragged however, it can still be reported.
+
+### Flashbang
+**Based of Grenadier from the Submarine Mod**
+The Flashbang is a role which can flash players around them for 3 seconds. If a player is flashed, their screen will fade to white and remain like that for 3 seconds before fading back to normal. The Flashbang will also be flashed, but they can use this to perform sneaky kills in the game.
