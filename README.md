@@ -86,7 +86,7 @@ The Visionary is a player which gets psychic readings from meetings. On odd numb
 ## Lovers
 **Based of the Woodi-Lovers Mod.**<br/>
 The Lovers are 2 players from any faction who are in love with each other. In a round, they share a chat and are able to communicate with eachother. Each lover can win with their individual factions, or win together by being the last 2 out of 3 people alive. If one lover dies by any means, the second lover will instanly commit suicide.
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Lovers.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Lover.png)
 
 # Neutral Roles
 ## Executioner
@@ -159,4 +159,4 @@ The Graverobber is a role which can move dead bodies. The Graverobber is able to
 ## Flashbang
 **Based of Grenadier from the Submarine Mod**<br/>
 The Flashbang is a role which can flash players around them for 3 seconds. If a player is flashed, their screen will fade to white and remain like that for 3 seconds before fading back to normal. The Flashbang will also be flashed, but they can use this to perform sneaky kills in the game.
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Flashbang.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/FlashBang.png)
