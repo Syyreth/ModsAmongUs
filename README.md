@@ -42,9 +42,11 @@ Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, bases on Town 
 ## V.I.P
 **Inspiration from Town of Salem**<br/>
 The V.I.P is an important crewmate role which needs to be kept alive in order for crewmates to win. If the V.I.P ever dies, the Impostors win, and everyone else loses. All the crewmates will know the identity of the impostor from the start, whereas Impostors and Neutrals will be left unknown to the information. The goal of the crew is to win the game whilst keeping the V.I.P alive.
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/VIP.png)
 
 ## Captain
 **Inspiration from Town of Salem**<br/>
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Captain.png)
 The Captain is an unknown player who plays the game as a normal Crewmate. In meetings, they can reveal themselves to every other player in the game, allowing their voting power to be tripled, and having every vote they do count as 3. However once a Captain is revealed, they cannot fix non-essential sabotages (Lights/Comms) and they are unable to protected by the Guardian.
 
 ## Vigilante
