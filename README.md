@@ -4,7 +4,7 @@
 Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, bases on Town Of Salem
 
 **Crewmate Roles:**<br/>
-  V.I.P<br/>
+  [V.I.P](#v.i.p)<br/>
   Captain<br/>
   Vigilante<br/>
   Guardian<br/>
