@@ -36,6 +36,8 @@ Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, bases on Town 
 
 # Download
 
+**10.5.2021**
+
 # Installation Guide
 
 # Crewmate Roles:
@@ -160,3 +162,13 @@ The Graverobber is a role which can move dead bodies. The Graverobber is able to
 **Based of Grenadier from the Submarine Mod**<br/>
 The Flashbang is a role which can flash players around them for 3 seconds. If a player is flashed, their screen will fade to white and remain like that for 3 seconds before fading back to normal. The Flashbang will also be flashed, but they can use this to perform sneaky kills in the game.
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/FlashBang.png)
+
+### References:
+**Reactor:** Mod Framework
+**Bepinex:** Hooking into and patching the game.
+**Town of Us:** Role inspiration for Chronos and Swapper
+**Woodi-Sherrif Mod:** For teaching me and helping with the Vigilante mod.
+**Woodi-Lovers Mod:** Inspiration for the lovers role.
+**Extra-Roles Mod:** For inspiration for the engineer.
+**Ottomated:** For inspiration for the Morpher and Guardian.
+**Submarine Team:** Inspiration on the FlashBang.
