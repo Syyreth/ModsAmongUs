@@ -91,7 +91,7 @@ The Visionary is a player which gets psychic readings from meetings. On odd numb
 
 ## Lovers
 **Based of the Woodi-Lovers Mod.**<br/>
-The Lovers are 2 players from any faction who are in love with each other. In a round, they share a chat and are able to communicate with eachother. Each lover can win with their individual factions, or win together by being the last 2 out of 3 people alive. If one lover dies by any means, the second lover will instanly commit suicide.
+The Lovers are 2 players from any faction who are in love with each other. In a round, they share a chat and are able to communicate with eachother. Each lover can win with their individual factions, or win together by being the last 2 out of 3 people alive. If one lover dies by any means, the second lover will instantly commit suicide.
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Lover.png)
 
 # Neutral Roles
