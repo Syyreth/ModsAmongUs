@@ -39,7 +39,11 @@ Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, bases on Town 
 **10.5.2021**
 
 # Installation Guide
-
+**1:** Open Steam and locate Among Us in your library.
+**2:** Right click the game and select properties.
+**3:** Click Local Files and then Browse.
+**4:** Download the mod.
+**5:** Extract everything into your Among Us directory, replacing anything that needs to be replaced.
 # Crewmate Roles:
 ## V.I.P
 **Inspiration from Town of Salem**<br/>
