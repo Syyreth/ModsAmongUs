@@ -163,7 +163,7 @@ The Graverobber is a role which can move dead bodies. The Graverobber is able to
 The Flashbang is a role which can flash players around them for 3 seconds. If a player is flashed, their screen will fade to white and remain like that for 3 seconds before fading back to normal. The Flashbang will also be flashed, but they can use this to perform sneaky kills in the game.
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/FlashBang.png)
 
-### References:
+# References:
 [**Reactor:**](https://github.com/NuclearPowered/Reactor) Mod Framework<br/>
 [**Bepinex:**](https://github.com/BepInEx) Hooking into and patching the game.<br/>
 [**Town of Us:**](https://github.com/slushiegoose/Town-Of-Us) Role inspiration for Chronos and Swapper<br/>
