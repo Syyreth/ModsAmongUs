@@ -164,11 +164,11 @@ The Flashbang is a role which can flash players around them for 3 seconds. If a 
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/FlashBang.png)
 
 ### References:
-[**Reactor:**](https://github.com/NuclearPowered/Reactor) Mod Framework
-[**Bepinex:**](https://github.com/BepInEx) Hooking into and patching the game.
-[**Town of Us:**](https://github.com/slushiegoose/Town-Of-Us) Role inspiration for Chronos and Swapper
-[**Woodi-Sherrif Mod:**](https://github.com/Woodi-dev/Among-Us-Sheriff-Mod) For teaching me and helping with the Vigilante mod.
-[**Woodi-Lovers Mod:**](https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod) Inspiration for the lovers role.
-[**Extra-Roles Mod:**](https://github.com/NotHunter101/ExtraRolesAmongUs) For inspiration for the engineer.
-[**Ottomated:**](https://github.com/ottomated) For inspiration for the Morpher and Guardian.
+[**Reactor:**](https://github.com/NuclearPowered/Reactor) Mod Framework<br/>
+[**Bepinex:**](https://github.com/BepInEx) Hooking into and patching the game.<br/>
+[**Town of Us:**](https://github.com/slushiegoose/Town-Of-Us) Role inspiration for Chronos and Swapper<br/>
+[**Woodi-Sherrif Mod:**](https://github.com/Woodi-dev/Among-Us-Sheriff-Mod) For teaching me and helping with the Vigilante mod.<br/>
+[**Woodi-Lovers Mod:**](https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod) Inspiration for the lovers role.<br/>
+[**Extra-Roles Mod:**](https://github.com/NotHunter101/ExtraRolesAmongUs) For inspiration for the engineer.<br/>
+[**Ottomated:**](https://github.com/ottomated) For inspiration for the Morpher and Guardian.<br/>
 **Submarine Team:** Inspiration on the FlashBang.
