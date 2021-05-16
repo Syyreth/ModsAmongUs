@@ -35,7 +35,7 @@ Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, based on Town 
   [FlashBang](#flashbang)<br/>
 
 # Download
-
+**DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**
 **10.5.2021**
 
 # Installation Guide
@@ -43,7 +43,12 @@ Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, based on Town 
 **2:** Right click the game and select properties.<br/>
 **3:** Click Local Files and then Browse.<br/>
 **4:** Download the mod.<br/>
-**5:** Extract everything into your Among Us directory, replacing anything that needs to be replaced.
+**5:** Extract everything into your Among Us directory, replacing anything that needs to be replaced.<br/>
+**6:** Open up the Bepinex Folder, Open the Config Folder, and then Open "Syyreth.plugins.ModsAmongUs".<br/>
+**7:** Enter the information of your Custom Server.
+**8:** Save the file and close out of it.
+**9:** Open up Among Us.
+**10:** First installation will take a small while, but after that, it should load up as normal.
 # Crewmate Roles:
 ## V.I.P
 **Inspiration from Town of Salem**<br/>
