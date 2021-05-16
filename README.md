@@ -45,9 +45,9 @@ Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, based on Town 
 **4:** Download the mod.<br/>
 **5:** Extract everything into your Among Us directory, replacing anything that needs to be replaced.<br/>
 **6:** Open up the Bepinex Folder, Open the Config Folder, and then Open "Syyreth.plugins.ModsAmongUs".<br/>
-**7:** Enter the information of your Custom Server.
-**8:** Save the file and close out of it.
-**9:** Open up Among Us.
+**7:** Enter the information of your Custom Server.<br/>
+**8:** Save the file and close out of it.<br/>
+**9:** Open up Among Us.<br/>
 **10:** First installation will take a small while, but after that, it should load up as normal.
 # Crewmate Roles:
 ## V.I.P
