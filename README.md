@@ -35,8 +35,8 @@ Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, based on Town 
   [FlashBang](#flashbang)<br/>
 
 # Download
-**DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**<br/>
-**10.5.2021 - V1.0.0**<br/>
+**DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**<br/><br/>
+(**10.5.2021 - V1.0.0**)(https://github.com/Syyreth/ModsAmongUs/releases/download/v1.0.0/ModsAmongUs-2021.05.10.zip)<br/><br/>
 **Support:** https://discord.gg/r5ewmf7sqf
 
 # Installation Guide
