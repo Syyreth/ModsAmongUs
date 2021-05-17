@@ -36,7 +36,7 @@ Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, based on Town 
 
 # Download
 **DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**<br/>
-**10.5.2021**
+**10.5.2021**<br/>
 **Support:** https://discord.gg/r5ewmf7sqf
 
 # Installation Guide
