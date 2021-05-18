@@ -37,7 +37,7 @@ Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, based on Town 
 # Download
 **DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**<br/>
 This is the first release, so may have some bugs. Please report them and I can fix them A.S.A.P :)<br/><br/>
-[**10.5.2021 - V1.0.0**](https://github.com/Syyreth/ModsAmongUs/releases/download/v1.0.0/ModsAmongUs-2021.05.10.zip)<br/><br/>
+[**10.5.2021 - V1.0.1**](https://github.com/Syyreth/ModsAmongUs/releases/download/v1.0.1/ModsAmongUs-2021.05.10.zip)<br/><br/>
 **Support:** https://discord.gg/r5ewmf7sqf</br>
 **Twitch:** https://www.twitch.tv/syyreth
 
@@ -179,6 +179,7 @@ The Flashbang is a role which can flash players around them for 3 seconds. If a 
 [**Reactor:**](https://github.com/NuclearPowered/Reactor) Mod Framework<br/>
 [**Daemon's Reactor**](https://github.com/DaemonBeast/Reactor) Mod Framework fork updated to the latest version<br/>
 [**Bepinex:**](https://github.com/BepInEx) Hooking into and patching the game.<br/>
+[**CooldownButton**](https://gist.github.com/gabriel-nsiqueira/827dea0a1cdc2210db6f9a045ec4ce0a) Creating and using a button.
 [**Town of Us:**](https://github.com/slushiegoose/Town-Of-Us) Role inspiration for Chronos and Swapper<br/>
 [**Woodi-Sherrif Mod:**](https://github.com/Woodi-dev/Among-Us-Sheriff-Mod) For teaching me and helping with the Vigilante mod.<br/>
 [**Woodi-Lovers Mod:**](https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod) Inspiration for the lovers role.<br/>
