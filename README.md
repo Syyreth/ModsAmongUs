@@ -1,5 +1,5 @@
 # Syyreth's ModsAmongUs Among Us Modpack
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/New%20Roles.PNG)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Syyreth's%20ModsAmongUs%20Roles.png)
 
 Syrreth's ModsAmongUs Modpack adds in 33 fun roles into the game, based on Town Of Salem
 
@@ -366,7 +366,7 @@ The Potion Master is a role which has 3 potions they can use, all sharing a cool
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Potion Master Spawning|
 |Potion Cooldown|10s-60s|30s|The cooldown of using a Potion|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Potion Master.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/PotionMaster.png)
 
 ## Necromancer
 **Based off Town of Salem**<br/>
@@ -384,7 +384,7 @@ The Hex Master is a role which can hex any chosen player. At meetings, a hexed p
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Hex Master Spawning|
 |Hex Cooldown|10s-60s|30s|The cooldown of Hexing a player|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Hex_Master.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/HexMaster.png)
 
 ## Poisoner
 **Based off Town of Salem**<br/>
