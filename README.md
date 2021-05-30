@@ -1,7 +1,7 @@
 # Syyreth's ModsAmongUs Among Us Modpack
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/New%20Roles.PNG)
 
-Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, based on Town Of Salem
+Syrreth's ModsAmongUs Modpack adds in 33 fun roles into the game, based on Town Of Salem
 
 **Crewmate Roles:**<br/>
   [V.I.P](#vip)<br/>
@@ -13,12 +13,14 @@ Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, based on Town 
   [Engineer](#engineer)<br/>
   [Visionary](#visionary)<br/>
   [Chronos](#chronos) <br/>
-  [Lovers](#lovers)
+  [Retributionist](#retributionist) <br/>
+  [Lookout](#lookout) </br>
+  [Lovers](#lovers) </br>
 
 **Neutral Roles:**<br/>
   [Executioner](#executioner)<br/>
   [Jester](#jester)<br/>
-  [Medusa](#medusa)<br/>
+  [Phantom](#phantom)<br/>
   [Arsonist](#arsonist)<br/>
   [Ghoul](#ghoul)<br/>
   [Plaguebearer](#plaguebearer)<br/>
@@ -33,6 +35,14 @@ Syrreth's ModsAmongUs Modpack adds in 25 fun roles into the game, based on Town 
   [The Stealth](#the-stealth)<br/>
   [Graverobber](#graverobber)<br/>
   [FlashBang](#flashbang)<br/>
+  
+  **Coven Roles:**<br/>
+  [Witch](#witch)<br/>
+  [Medusa](#medusa)<br/>
+  [Potion Master](#potion-master)<br/>
+  [Necromancer](#necromancer)<br/>
+  [Hex Master](#hex-master)<br/>
+  [Poisoner](#poisoner)<br/>
 
 # Download
 **DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**<br/>
@@ -143,6 +153,23 @@ The Visionary is a player which gets psychic readings from meetings. On odd numb
 |Chance|0%-100%|0%|Chance of Visionary Spawning|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Visionary.png)
 
+## Retributionist
+**Based off the Retributionist from Town of Salem**<br/>
+The Retributionist is a role which can resurrect any player! After their button is clicked, they will die, and then after a certain amount of time, as long as NO MEETINGS are called, the target will be ressurected!
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Lookout Spawning|
+|Ressurection Timer|5s-15s|10s|The time taken to ressurect a player|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Retributionist.png)
+
+## Lookout
+**Based off the Lookout from Town of Salem**<br/>
+The Lookout is a player who can Zoomout and view the whole map for 5 seconds at the click of a button. Custom Options allow the lookout to have the max vision in the game (5x) and/or be able to see in lights!.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Lookout Spawning|
+|Zoomout Cooldown|10s-60s|30%|The cooldown for a Lookout to Zoomout|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Lookout.png)
 
 ## Lovers
 **Based of the Woodi-Lovers Mod.**<br/>
@@ -173,18 +200,14 @@ The Jester is a neutral role which wins from getting themselves voted out. They 
 |Chance|0%-100%|0%|Chance of Jester Spawning|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Jester.png)
 
-
-
-## Medusa
-**Based off Town of Salem**<br/>
-The Medusa is a neutral role which wins from stoning and killing other players. They are able to stone players who are then unable to move for the remainder of the round, slowing down a task win. Whenever a meeting is called, any stoned player will then be murdered. If the impostor dies, the medusa will still be around and have a chance to win. If the Medusa and the Impostor are in a 1v1 scenario, the Impostor will be granted victory.
+## Phantom
+**Based off Ottomated's Phanotm**<br/>
+The Phantom is a role that is activated upon the death of the player. After the next meeting, the phantom will randomly spawn on top of a vent, and is required to do the amount of short tasks as there are players in a round. The Phantom must complete this tasks within one round, otherwise they will reset and rerandomise. Once completed, the Phantom must call an emergency meeting themselves to win the game.
 |Settings|Range|Default|Description|
 |---|---|---|---|
-|Chance|0%-100%|0%|Chance of Medusa Spawning|
-|Stone Cooldown|10s-60s|30s|The cooldown of stoning a player|
-|Medusa Can Vent|true/false|false|If the Medusa can vent|
-|Medusa Beats Impostor|true/false|false|If the Medusa beats the Impostor in a 1v1|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Medusa.png)
+|Chance|0%-100%|0%|Chance of Phantom Spawning|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Phantom.png)
+
 
 
 ## Arsonist
@@ -309,8 +332,68 @@ The Flashbang is a role which can flash players around them for 3 seconds. If a 
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of FlashBang Spawning|
 |Flash Cooldown|10s-60s|30s|The cooldown of Flashing a player|
-|Morph Duration|1s-10s|3s|The duration of the Flash|
+|Flash Duration|1s-10s|3s|The duration of the Flash|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/FlashBang.png)
+
+## Coven Roles
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Coven Over Impostor|True/False|False|Coven roles are chosen over the Impostor Roles|
+
+## Witch
+**Based off Town of Salem**<br/>
+The Witch is a role which can taglock any player. After a player is taglocked, the witch can choose to control them and kill any player using their target. The can only stop controlling a player after they have made a kill, or a meeting is called.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Witch Spawning|
+|Taglock Cooldown|10s-60s|30s|The cooldown of Taglocking a player|
+|Control Cooldown|5s-60s|10s|The cooldown of Controlling a player|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Witch.png)
+
+## Medusa
+**Based off Town of Salem**<br/>
+The Medusa is a  role which wins from stoning and killing other players. They are able to stone players who are then unable to move for the remainder of the round, slowing down a task win. Whenever a meeting is called, any stoned player will then be murdered.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Medusa Spawning|
+|Stone Cooldown|10s-60s|30s|The cooldown of stoning a player|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Medusa.png)
+
+## Potion Master
+**Based off Town of Salem**<br/>
+The Potion Master is a role which has 3 potions they can use, all sharing a cooldown. The first is the kill potion, killing any player they choose. The next is the confusion potion, turning everyone grey and making it difficult to work out who is who. The final is the heal potion, protecting anyone for a certain amount of time (this duration is the same as the configured guardian duration).
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Potion Master Spawning|
+|Potion Cooldown|10s-60s|30s|The cooldown of using a Potion|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Potion Master.png)
+
+## Necromancer
+**Based off Town of Salem**<br/>
+The Necromancer is a role which can remove any body similar to a janitor. They will also disguise as that body for the remainder of the round and can kill anyone whilst disguised as it.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Necromancer Spawning|
+|Possess Cooldown|10s-60s|30s|The cooldown of Possessing a body.|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Necromancer.png)
+
+## Hex Master
+**Based off Town of Salem**<br/>
+The Hex Master is a role which can hex any chosen player. At meetings, a hexed player will know they are hexed, and they will reproduce a coven reading for the investigator. Once everyone who isn't coven is hexed, the Hex Master can kill everyone at once, winning the game.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Hex Master Spawning|
+|Hex Cooldown|10s-60s|30s|The cooldown of Hexing a player|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Hex_Master.png)
+
+## Poisoner
+**Based off Town of Salem**<br/>
+The Poisoner is a role that can poison any player. At meetings, a player will see they're poisoned (but see it differently compared to being hexed) and will only survive that meeting, being able to contribute to votes. When the meeting ends, all poisoned players will die.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Poisoner Spawning|
+|Poison Cooldown|10s-60s|30s|The cooldown of Poisoning a player|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Poisoner.png)
 
 # References:
 [**Reactor:**](https://github.com/NuclearPowered/Reactor) Mod Framework<br/>
