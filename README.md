@@ -47,7 +47,8 @@ Syrreth's ModsAmongUs Modpack adds in 33 fun roles into the game, based on Town 
 # Download
 **DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**<br/>
 This is the first release, so may have some bugs. Please report them and I can fix them A.S.A.P :)<br/><br/>
-[**10.5.2021 - V2.0.0**](https://github.com/Syyreth/ModsAmongUs/releases/download/v2.0.0/ModsAmongUs-2021.05.10.zip)<br/><br/>
+[**2021.5.25.2 - V2.0.2**](https://github.com/Syyreth/ModsAmongUs/releases/download/v2.0.2/ModsAmongUs-2021.05.25.2.zip)
+[**2021.5.10 - V2.0.1**](https://github.com/Syyreth/ModsAmongUs/releases/download/v2.0.1/ModsAmongUs-2021.05.10.zip)<br/><br/>
 **Support:** https://discord.gg/r5ewmf7sqf</br>
 **Twitch:** https://www.twitch.tv/syyreth
 
