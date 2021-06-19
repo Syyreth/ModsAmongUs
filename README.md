@@ -43,6 +43,18 @@ Syrreth's ModsAmongUs Modpack adds in 33 fun roles into the game, based on Town 
   [Necromancer](#necromancer)<br/>
   [Hex Master](#hex-master)<br/>
   [Poisoner](#poisoner)<br/>
+  
+  **NEW Colors:**<br/>
+  Peach<br/>
+  Mango<br/>
+  Raspberry<br/>
+  Pear<br/>
+  Blueberry<br/>
+  Bubblegum<br/>
+  Apple<br/>
+  Lemon<br/>
+  Peach<br/>
+  Rainbow<br/>
 
 # Download
 **DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**<br/>
@@ -344,6 +356,7 @@ The Flashbang is a role which can flash players around them for 3 seconds. If a 
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Coven Over Impostor|True/False|False|Coven roles are chosen over the Impostor Roles|
+|Coven Beat Impostor|True/False|False|Coven roles win against the Impostor Roles|
 
 ## Witch
 **Based off Town of Salem**<br/>
