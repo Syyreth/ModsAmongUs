@@ -403,14 +403,14 @@ The Bounty Hunter is a player who has a certain player they must eliminate every
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Bounty Hunter Spawning|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Bounty%Hunter.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Bounty%20Hunter.png)
 
 ## AntiTasker
 The Antitasker is a regular impostor but once per round, they can block a player from doing their tasks. A taskblocked player will be unable to complete their tasks or fix ANY sabotage, until a meeting is called.
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of AntiTasker Spawning|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/AntiTasker.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Anti%20Tasker.png)
 
 ## Coven Roles
 |Settings|Range|Default|Description|
