@@ -15,6 +15,9 @@ Syrreth's ModsAmongUs Modpack adds in 33 fun roles into the game, based on Town 
   [Chronos](#chronos) <br/>
   [Retributionist](#retributionist) <br/>
   [Lookout](#lookout) </br>
+  [Tracker](#tracker)<br/>
+  [Pilot](#pilot)<br/>
+  [Drainer](#drainer)<br/>
   [Lovers](#lovers) </br>
 
 **Neutral Roles:**<br/>
@@ -26,6 +29,7 @@ Syrreth's ModsAmongUs Modpack adds in 33 fun roles into the game, based on Town 
   [Plaguebearer](#plaguebearer)<br/>
   [Angel](#angel)<br/>
   [Serial Killer](#serial-killer)<br/>
+  [Survivor](#survivor)<br/>
 
 **Impostor Roles:**<br/>
   [Janitor](#janitor)<br/>
@@ -35,6 +39,9 @@ Syrreth's ModsAmongUs Modpack adds in 33 fun roles into the game, based on Town 
   [The Stealth](#the-stealth)<br/>
   [Graverobber](#graverobber)<br/>
   [FlashBang](#flashbang)<br/>
+  [Blackmailer](#blackmailer)<br/>
+  [Bounty Hunter](#bounty-hunter)<br/>
+  [AntiTasker](#antitasker)<br/>
   
   **Coven Roles:**<br/>
   [Witch](#witch)<br/>
@@ -188,6 +195,30 @@ The Lookout is a player who can Zoomout and view the whole map for 5 seconds at 
 |Zoomout Full Vision|true/false|true|A Lookout has full (5x) vision|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Lookout.png)
 
+## Tracker
+**Based off the Tracker from Town of Salem. Idea provided by NOOB#8087 on discord, with a few adjustments.**<br/>
+The Tracker is a player which can track one player per round. When the Tracker opens their map, they will see the icon of the player they are choosing to track alongside their location. They will see where they are in the map and how they navigate (such as venting).
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Tracker Spawning|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Tracker.png)
+
+## Pilot
+**Idea based on suggestion by Edward elric#9057 on discord.**<br/>
+The Pilot is a player who is able to view admin at any point at any time without cooldown. Once per game, they are able to call an emergency meeting whenever they like, including during sabotages.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Pilot Spawning|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Pilot.png)
+
+## Drainer
+**Idea based on suggestion by ballo5068#9308 on discord.**<br/>
+The Drainer is a player who once per round, can block out the use of a vent once per game. An impostor cannot use this vent to get in or out of the vent system. Any players in a vent as it is being drained will be killed.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Drainer Spawning|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Drainer.png)
+
 ## Lovers
 **Based of the Woodi-Lovers Mod.**<br/>
 The Lovers are 2 players from any faction who are in love with each other. In a round, they share a chat and are able to communicate with eachother. Each lover can win with their individual factions, or win together by being the last 2 out of 3 people alive. If one lover dies by any means, the second lover will instantly commit suicide.
@@ -283,6 +314,13 @@ The Serial Killer is a neutral role which can murder players alongside the Impos
 |Serial Killer Beats Impostor|true/false|true|If the Serial Killer beats the Impostor in a 1v1|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Serial%20Killer.png)
 
+## Survivor
+**Based off Survivor from Town of Salem**<br/>
+The Survivor is a simple role that can win with either crewmates or impostors. As long as the survivor remains alive at the end of the match, they will be granted victory alongside the victors.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Survivor Spawning|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Survivor.png)
 
 ## Impostor Roles
 ## Janitor
@@ -351,6 +389,28 @@ The Flashbang is a role which can flash players around them for 3 seconds. If a 
 |Flash Cooldown|10s-60s|30s|The cooldown of Flashing a player|
 |Flash Duration|1s-10s|3s|The duration of the Flash|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/FlashBang.png)
+
+## Blackmailer
+**Based off Blackmailer from Town of Salem**<br/>
+The Blackmailer is a player which can blackmail a player once per round. When a meeting begins the blackmailed player will get an alert that they are blackmailed and cannot access the chat to communicate with others. A blackmailed player is also expected to not talk in voice channels during meetings.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Blackmailer Spawning|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Blackmailer.png)
+
+## Bounty Hunter
+The Bounty Hunter is a player who has a certain player they must eliminate every time. If they successfully kill their bounty, another will be generated and their cooldown will be halved. If they kill someone other than their bounty, their cooldown will be doubled.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Bounty Hunter Spawning|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Bounty%Hunter.png)
+
+## AntiTasker
+The Antitasker is a regular impostor but once per round, they can block a player from doing their tasks. A taskblocked player will be unable to complete their tasks or fix ANY sabotage, until a meeting is called.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of AntiTasker Spawning|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/AntiTasker.png)
 
 ## Coven Roles
 |Settings|Range|Default|Description|
