@@ -51,7 +51,7 @@ Syrreth's ModsAmongUs Modpack adds in 33 fun roles into the game, based on Town 
   [Hex Master](#hex-master)<br/>
   [Poisoner](#poisoner)<br/>
   
-  **NEW Colors:**<br/>
+  **NEW Colors: (Temporarily Disabled)**<br/>
   Peach<br/>
   Mango<br/>
   Raspberry<br/>
@@ -66,7 +66,7 @@ Syrreth's ModsAmongUs Modpack adds in 33 fun roles into the game, based on Town 
 # Download
 **DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**<br/>
 This is the first release, so may have some bugs. Please report them and I can fix them A.S.A.P :)<br/><br/>
-[**2021.6.30 - V3.0.0**](https://github.com/Syyreth/ModsAmongUs/releases/download/V3.0.0/ModsAmongUs-2021.06.30.zip)<br/>
+[**2021.6.30 - V3.1.0**](https://github.com/Syyreth/ModsAmongUs/releases/download/v3.1.0/ModsAmongUs-2021.06.30.zip)<br/>
 [**2021.6.15 - V2.0.4**](https://github.com/Syyreth/ModsAmongUs/releases/download/v.2.0.4/ModsAmongUs-2021.06.15.zip)<br/>
 [**2021.5.25.2 - V2.0.2**](https://github.com/Syyreth/ModsAmongUs/releases/download/v2.0.2/ModsAmongUs-2021.05.25.2.zip)<br/>
 [**2021.5.10 - V2.0.1**](https://github.com/Syyreth/ModsAmongUs/releases/download/v2.0.1/ModsAmongUs-2021.05.10.zip)<br/><br/>
@@ -261,13 +261,12 @@ The Phantom is a role that is activated upon the death of the player. After the 
 
 ## Arsonist
 **Based off Town of Salem**<br/>
-The Arsonist is a neutral role which wins from dousing and killing other players. The Arsonist can douse people in the middle of the round, but whenever a meeting is called, those who are doused will see that they are doused. In a meeting, the Arsonist can choose to ignite those they have doused, and they will be killed as long as the Arsonist does not get ejected that same meeting. If the impostor dies, the Arsonist will still be around and have a chance to win. If the Arsonist and the Impostor are in a 1v1 scenario, the Impostor will be granted victory.'
+The Arsonist is a neutral role which wins from dousing and killing other players. The Arsonist can douse people in the middle of the round, but whenever a meeting is called, those who are doused will see that they are doused. In a meeting, the Arsonist can choose to ignite those they have doused, and they will be killed as long as the Arsonist does not get ejected that same meeting. If the impostor dies, the Arsonist will still be around and have a chance to win. They must be the last man standing (excluding crewmates) to win.
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Arsonist Spawning|
 |Douse Cooldown|10s-60s|30s|The cooldown of dousing a player|
 |Arsonist Can Vent|true/false|false|If the Arsonist can vent|
-|Arsonist Beats Impostor|true/false|false|If the Arsonist beats the Impostor in a 1v1|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Arsonist.png)
 
 
@@ -282,14 +281,12 @@ The Ghoul is a neutral role who's ability gets granted after death. Once a Ghoul
 
 ## Plaguebearer
 **Based off Town of Salem**<br/>
-The Plaguebearer is a neutral role who is able to infect other players. Each round, the Plaguebearer can infect as many alive people they have infected previously, starting off with 1 Infect in the first round. If an infected player dies, the Plaguebearer will get 1 less opportunity to infect a player. Once everyone in the game has been infected, the Plaguebearer becomes the Pestillence, the Horseman of the Apocalypse and is able to kill players with a 3 second cooldown. If the impostor dies, the Plaguebearer/Pestillence will remain until the end. In a 1v1 situation between the Plaguebearer and the Impostor, the Impostor will win, however in a 1v1 situation between the Pestillence and the Impostor, the Pestillence will win instead.
+The Plaguebearer is a neutral role who is able to infect other players. Each round, the Plaguebearer can infect as many alive people they have infected previously, starting off with 1 Infect in the first round. If an infected player dies, the Plaguebearer will get 1 less opportunity to infect a player. Once everyone in the game has been infected, the Plaguebearer becomes the Pestillence, the Horseman of the Apocalypse and is able to kill players with a 3 second cooldown. If the impostor dies, the Plaguebearer/Pestillence will remain until the end. They must be the last man standing (excluding crewmates) to win.
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Plaguebearer Spawning|
 |Infect Cooldown|10s-60s|30s|The cooldown of infecting a player|
-|Plaguebearer Beats Impostor|true/false|false|If the Plaguebearer beats the Impostor in a 1v1|
 |Kill Cooldown|10s-60s|30s|The cooldown of killing a player|
-|Pestillence Beats Impostor|true/false|true|If the Pestillence beats the Impostor in a 1v1|
 |Plaguebearer Can Vent|true/false|false|If the Plaguebearer can vent|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Plaguebearer.png)
 
@@ -306,13 +303,12 @@ The Angel is a neutral role which aligns with the faction of their target, wheth
 
 ## Serial Killer
 **Based off Town of Salem**<br/>
-The Serial Killer is a neutral role which can murder players alongside the Impostors, but are working against them. The Serial Killer has its own win condition of being alive until the end. In a 1v1 situation against the Impostors, the Serial Killer will win, and they will keep going if the Impostor gets voted out in the middle of the game.
+The Serial Killer is a neutral role which can murder players alongside the Impostors, but are working against them. The Serial Killer has its own win condition of being alive until the end. They must be the last man standing (excluding crewmates) to win.
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Serial Killer Spawning|
 |Kill Cooldown|10s-60s|30s|The cooldown of killing a player|
 |Serial Killer Can Vent|true/false|false|If the Serial Killer can vent|
-|Serial Killer Beats Impostor|true/false|true|If the Serial Killer beats the Impostor in a 1v1|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Serial%20Killer.png)
 
 ## Survivor
@@ -324,6 +320,7 @@ The Survivor is a simple role that can win with either crewmates or impostors. A
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Survivor.png)
 
 ## Impostor Roles
+Please note that impostors are unable to win whilst the Serial Killer, Arsonist, Plaguebearer, or Coven are alive. They must be the last faction standing (excluding crewmates) to win.
 ## Janitor
 **Based off Town of Salem**<br/>
 The Janitor is an impostor role which also has the ability to remove a body from the game. The Clean ability and the Kill button share a cooldown, meaning if one ability is used, both will go on cooldown, so the impostor can choose if they want to clean a body, or kill a player.
@@ -414,10 +411,10 @@ The Antitasker is a regular impostor but once per round, they can block a player
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Anti%20Tasker.png)
 
 ## Coven Roles
+The Coven are a entirely new faction which play against everyone else. They must be the last faction standing (excluding crewmates) to win.
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Coven Over Impostor|True/False|False|Coven roles are chosen over the Impostor Roles|
-|Coven Beat Impostor|True/False|False|Coven roles win against the Impostor Roles|
 
 ## Witch
 **Based off Town of Salem**<br/>
