@@ -1,7 +1,7 @@
 # Syyreth's ModsAmongUs Among Us Modpack
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Syyreth's%20ModsAmongUs%20Roles.png)
 
-Syrreth's ModsAmongUs Modpack adds in 33 fun roles into the game, based on Town Of Salem
+Syrreth's ModsAmongUs Modpack adds in 40 fun roles into the game, based on Town Of Salem
 
 **Crewmate Roles:**<br/>
   [V.I.P](#vip)<br/>
@@ -51,7 +51,7 @@ Syrreth's ModsAmongUs Modpack adds in 33 fun roles into the game, based on Town 
   [Hex Master](#hex-master)<br/>
   [Poisoner](#poisoner)<br/>
   
-  **NEW Colors: (Temporarily Disabled)**<br/>
+  **NEW Colors:**<br/>
   Peach<br/>
   Mango<br/>
   Raspberry<br/>
@@ -66,7 +66,7 @@ Syrreth's ModsAmongUs Modpack adds in 33 fun roles into the game, based on Town 
 # Download
 **DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**<br/>
 This is the first release, so may have some bugs. Please report them and I can fix them A.S.A.P :)<br/><br/>
-[**2021.6.30 - V3.1.0**](https://github.com/Syyreth/ModsAmongUs/releases/download/v3.1.0/ModsAmongUs-2021.06.30.zip)<br/>
+[**2021.6.30 - V3.1.1**](https://github.com/Syyreth/ModsAmongUs/releases/download/v3.1.1/ModsAmongUs-2021.06.30.zip)<br/>
 [**2021.6.15 - V2.0.4**](https://github.com/Syyreth/ModsAmongUs/releases/download/v.2.0.4/ModsAmongUs-2021.06.15.zip)<br/>
 [**2021.5.25.2 - V2.0.2**](https://github.com/Syyreth/ModsAmongUs/releases/download/v2.0.2/ModsAmongUs-2021.05.25.2.zip)<br/>
 [**2021.5.10 - V2.0.1**](https://github.com/Syyreth/ModsAmongUs/releases/download/v2.0.1/ModsAmongUs-2021.05.10.zip)<br/><br/>
