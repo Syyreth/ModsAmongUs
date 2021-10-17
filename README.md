@@ -412,8 +412,8 @@ The Antitasker is a regular impostor but once per round, they can block a player
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Anti%20Tasker.png)
 
 ## Assassin
-BASED OF ASSASSIN FROM TOWN OF US MOD
-The Aassassin is a role, that once per game, can guess the role of another player in meetings. If they get it correct, that player dies, if they get it incorrect, they die instead.
+BASED OF ASSASSIN FROM TOWN OF US MOD<br/>
+The Assassin is a role, that once per game, can guess the role of another player in meetings. If they get it correct, that player dies, if they get it incorrect, they die instead.
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Assassin Spawning|
