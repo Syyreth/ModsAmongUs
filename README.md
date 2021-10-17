@@ -1,7 +1,7 @@
 # Syyreth's ModsAmongUs Among Us Modpack
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Syyreth's%20ModsAmongUs%20Roles.png)
 
-Syrreth's ModsAmongUs Modpack adds in 40 fun roles into the game, based on Town Of Salem
+Syrreth's ModsAmongUs Modpack adds in 41 fun roles into the game, based on Town Of Salem
 
 **Crewmate Roles:**<br/>
   [V.I.P](#vip)<br/>
@@ -42,6 +42,7 @@ Syrreth's ModsAmongUs Modpack adds in 40 fun roles into the game, based on Town 
   [Blackmailer](#blackmailer)<br/>
   [Bounty Hunter](#bounty-hunter)<br/>
   [AntiTasker](#antitasker)<br/>
+  [Assassin](#assassin)<br/>
   
   **Coven Roles:**<br/>
   [Witch](#witch)<br/>
@@ -409,6 +410,14 @@ The Antitasker is a regular impostor but once per round, they can block a player
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of AntiTasker Spawning|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Anti%20Tasker.png)
+
+## Assassin
+BASED OF ASSASSIN FROM TOWN OF US MOD
+The Aassassin is a role, that once per game, can guess the role of another player in meetings. If they get it correct, that player dies, if they get it incorrect, they die instead.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Assassin Spawning|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Assassin.png)
 
 ## Coven Roles
 The Coven are a entirely new faction which play against everyone else. They must be the last faction standing (excluding crewmates) to win.
