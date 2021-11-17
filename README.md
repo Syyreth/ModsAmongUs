@@ -357,7 +357,7 @@ The Spy is a role which can place down a camera anywhere in the map which can ON
 The Consort is a role which can roleblock other players in meetings. If a player is roleblocked, they will lose access to any of their abilities, and will be unable to report bodies for the round until a meeting is called.
 |Settings|Range|Default|Description|
 |---|---|---|---|
-|Chance|0%-100%|0%|Chance of Spy Spawning|
+|Chance|0%-100%|0%|Chance of Consort Spawning|
 |Roleblocked can report bodies|true/false|false|If Roleblocked players can report dead bodies|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Consort.png)
 
