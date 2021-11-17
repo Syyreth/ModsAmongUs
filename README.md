@@ -1,7 +1,7 @@
 # Syyreth's ModsAmongUs Among Us Modpack
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Syyreth's%20ModsAmongUs%20Roles.png)
 
-Syrreth's ModsAmongUs Modpack adds in 41 fun roles into the game, based on Town Of Salem
+Syrreth's ModsAmongUs Modpack adds in 42 fun roles into the game, based on Town Of Salem
 
 **Crewmate Roles:**<br/>
   [V.I.P](#vip)<br/>
@@ -19,7 +19,8 @@ Syrreth's ModsAmongUs Modpack adds in 41 fun roles into the game, based on Town 
   [Pilot](#pilot)<br/>
   [Drainer](#drainer)<br/>
   [Lovers](#lovers) </br>
-
+  [Troll](#troll) </br>
+  
 **Neutral Roles:**<br/>
   [Executioner](#executioner)<br/>
   [Jester](#jester)<br/>
@@ -230,7 +231,8 @@ The Lovers are 2 players from any faction who are in love with each other. In a 
 |Lovers Suicide|true/false|true|Lovers commit suicide if the other dies.|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Lover.png)
 
-
+## Troll
+The troll dies to win.
 # Neutral Roles
 ## Executioner
 **Based off Town of Salem**<br/>
