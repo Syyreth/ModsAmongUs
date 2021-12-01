@@ -1,7 +1,7 @@
 # Syyreth's ModsAmongUs Among Us Modpack
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Syyreth's%20ModsAmongUs%20Roles.png)
 
-Syrreth's ModsAmongUs Modpack adds in 41 fun roles into the game, based on Town Of Salem
+Syrreth's ModsAmongUs Modpack adds in 42 fun roles into the game, based on Town Of Salem
 
 **Crewmate Roles:**<br/>
   [V.I.P](#vip)<br/>
@@ -19,7 +19,7 @@ Syrreth's ModsAmongUs Modpack adds in 41 fun roles into the game, based on Town 
   [Pilot](#pilot)<br/>
   [Drainer](#drainer)<br/>
   [Lovers](#lovers) </br>
-
+  
 **Neutral Roles:**<br/>
   [Executioner](#executioner)<br/>
   [Jester](#jester)<br/>
@@ -230,7 +230,6 @@ The Lovers are 2 players from any faction who are in love with each other. In a 
 |Lovers Suicide|true/false|true|Lovers commit suicide if the other dies.|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Lover.png)
 
-
 # Neutral Roles
 ## Executioner
 **Based off Town of Salem**<br/>
@@ -357,7 +356,7 @@ The Spy is a role which can place down a camera anywhere in the map which can ON
 The Consort is a role which can roleblock other players in meetings. If a player is roleblocked, they will lose access to any of their abilities, and will be unable to report bodies for the round until a meeting is called.
 |Settings|Range|Default|Description|
 |---|---|---|---|
-|Chance|0%-100%|0%|Chance of Spy Spawning|
+|Chance|0%-100%|0%|Chance of Consort Spawning|
 |Roleblocked can report bodies|true/false|false|If Roleblocked players can report dead bodies|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Consort.png)
 
