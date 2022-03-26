@@ -53,7 +53,7 @@ Syrreth's ModsAmongUs Modpack adds in 40 fun roles into the game, based on Town 
   [Poisoner](#poisoner)<br/>
   
   **Modifiers:**<br/>
-  [V.I.P](#v.i.p)<br/>
+  [V.I.P](#vip)<br/>
   [Lovers](#lovers)<br/>
   [Inverse](#inverse)<br/>
   [Observer](#observer)<br/>
@@ -482,7 +482,7 @@ The Poisoner is a role that can poison any player. At meetings, a player will se
 
 ## Modifiers
 Modifiers are addons to existing roles that make the game a bit more fun!
-## V.I.P
+## VIP
 **Based off Town of Salem**<br/>
 The V.I.P is a Crewmate modifier which can only be seen by other Crewmates. If the V.I.P dies under any circumstance, victory will be granted to the Impostors.
 |Settings|Range|Default|Description|
