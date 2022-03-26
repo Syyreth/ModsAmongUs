@@ -4,12 +4,13 @@
 Syrreth's ModsAmongUs Modpack adds in 40 fun roles into the game, based on Town Of Salem
 
 **Crewmate Roles:**<br/>
+  [Bodyguard](#bodyguard)<br/>
   [Captain](#captain)<br/>
   [Vigilante](#vigilante)<br/>
   [Guardian](#guardian)<br/>
   [Investigator](#investigator)<br/>
   [Swapper](#swapper)<br/>
-  [Engineer](#engineer)<br/>
+  [Handyman](#handyman)<br/>
   [Visionary](#visionary)<br/>
   [Chronos](#chronos) <br/>
   [Retributionist](#retributionist) <br/>
@@ -17,6 +18,7 @@ Syrreth's ModsAmongUs Modpack adds in 40 fun roles into the game, based on Town 
   [Tracker](#tracker)<br/>
   [Pilot](#pilot)<br/>
   [Drainer](#drainer)<br/>
+  [Detective](#detective)<br/>
 
 **Neutral Roles:**<br/>
   [Executioner](#executioner)<br/>
@@ -49,6 +51,13 @@ Syrreth's ModsAmongUs Modpack adds in 40 fun roles into the game, based on Town 
   [Necromancer](#necromancer)<br/>
   [Hex Master](#hex-master)<br/>
   [Poisoner](#poisoner)<br/>
+  
+  **Modifiers:**<br/>
+  [V.I.P](#v.i.p)<br/>
+  [Lovers](#lovers)<br/>
+  [Inverse](#inverse)<br/>
+  [Observer](#observer)<br/>
+  [Torch](#torch)<br/>
   
   **NEW Colors:**<br/>
   Peach<br/>
@@ -140,14 +149,14 @@ The Swapper is a role which activates in meetings. The Swapper can swap around 2
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Swapper.png)
 
 
-## Engineer
+## Handyman
 **Inspiration from the ExtraRoles Mod**<br/>
-The Engineer is a crewmate which gains the ability to vent. Once per game, the Engineer can choose to repair any sabotage in the game, repairing it instantly from anywhere in the map.
+The Handyman is a crewmate which gains the ability to vent. Once per game, the Handyman can choose to repair any sabotage in the game, repairing it instantly from anywhere in the map.
 |Settings|Range|Default|Description|
 |---|---|---|---|
-|Chance|0%-100%|0%|Chance of Engineer Spawning|
-|Repair Once Per|Round/Game|Round|How often the engineer can repair|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Engineer.png)
+|Chance|0%-100%|0%|Chance of Handyman Spawning|
+|Repair Once Per|Round/Game|Round|How often the handyman can repair|
+
 
 
 ## Chronos
