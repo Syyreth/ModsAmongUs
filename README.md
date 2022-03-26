@@ -1,10 +1,9 @@
 # Syyreth's ModsAmongUs Among Us Modpack
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Syyreth's%20ModsAmongUs%20Roles.png)
 
-Syrreth's ModsAmongUs Modpack adds in 41 fun roles into the game, based on Town Of Salem
+Syrreth's ModsAmongUs Modpack adds in 40 fun roles into the game, based on Town Of Salem
 
 **Crewmate Roles:**<br/>
-  [V.I.P](#vip)<br/>
   [Captain](#captain)<br/>
   [Vigilante](#vigilante)<br/>
   [Guardian](#guardian)<br/>
@@ -18,7 +17,6 @@ Syrreth's ModsAmongUs Modpack adds in 41 fun roles into the game, based on Town 
   [Tracker](#tracker)<br/>
   [Pilot](#pilot)<br/>
   [Drainer](#drainer)<br/>
-  [Lovers](#lovers) </br>
 
 **Neutral Roles:**<br/>
   [Executioner](#executioner)<br/>
@@ -65,12 +63,9 @@ Syrreth's ModsAmongUs Modpack adds in 41 fun roles into the game, based on Town 
   Rainbow<br/>
 
 # Download
-**DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**<br/>
-This is the first release, so may have some bugs. Please report them and I can fix them A.S.A.P :)<br/><br/>
-[**2021.6.30 - V3.1.2**](https://github.com/Syyreth/ModsAmongUs/releases/download/v3.1.2/ModsAmongUs-2021.06.30.zip)<br/>
-[**2021.6.15 - V2.0.4**](https://github.com/Syyreth/ModsAmongUs/releases/download/v.2.0.4/ModsAmongUs-2021.06.15.zip)<br/>
-[**2021.5.25.2 - V2.0.2**](https://github.com/Syyreth/ModsAmongUs/releases/download/v2.0.2/ModsAmongUs-2021.05.25.2.zip)<br/>
-[**2021.5.10 - V2.0.1**](https://github.com/Syyreth/ModsAmongUs/releases/download/v2.0.1/ModsAmongUs-2021.05.10.zip)<br/><br/>
+**DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**<br/><br>
+[**2022.2.23 - V4.0.0**](https://github.com/Syyreth/ModsAmongUs/releases/download/v4.0.0/ModsAmongUs-2022.02.23.zip)<br/>
+
 **Support:** https://discord.gg/r5ewmf7sqf</br>
 **Twitch:** https://www.twitch.tv/syyreth
 
@@ -86,14 +81,12 @@ This is the first release, so may have some bugs. Please report them and I can f
 **9:** Open up Among Us.<br/>
 **10:** First installation will take a small while, but after that, it should load up as normal.
 # Crewmate Roles:
-## V.I.P
+## Bodyguard
 **Inspiration from Town of Salem**<br/>
-The V.I.P is an important crewmate role which needs to be kept alive in order for crewmates to win. If the V.I.P ever dies, the Impostors win, and everyone else loses. All the crewmates will know the identity of the impostor from the start, whereas Impostors and Neutrals will be left unknown to the information. The goal of the crew is to win the game whilst keeping the V.I.P alive.
+The Bodyguard is a crewmate role who can select one target to protect each round. If there target is attacked, the Bodyguard will swap places with them and die in their place.
 |Settings|Range|Default|Description|
 |---|---|---|---|
-|Chance|0%-100%|0%|Chance of V.I.P Spawning|
-|Who See's V.I.P|Crewmates-Crew & Neutral|Crewmates|Which roles see the V.I.P|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/VIP.png)
+|Chance|0%-100%|0%|Chance of Bodyguard Spawning|
 
 
 ## Captain
@@ -221,14 +214,12 @@ The Drainer is a player who once per round, can block out the use of a vent once
 |Chance|0%-100%|0%|Chance of Drainer Spawning|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Drainer.png)
 
-## Lovers
-**Based of the Woodi-Lovers Mod.**<br/>
-The Lovers are 2 players from any faction who are in love with each other. In a round, they share a chat and are able to communicate with eachother. Each lover can win with their individual factions, or win together by being the last 2 out of 3 people alive. If one lover dies by any means, the second lover will instantly commit suicide.
+## Detective
+**Based of the Assassin from the Town Of Us Mod.**<br/>
+The Detective is the crewmate equivalent of the assassin. They are able to guess the role of a player they suspect is not a crewmate in meetings. If they are correct then that player will die, however if they are incorrect, the Detective will die instead.
 |Settings|Range|Default|Description|
 |---|---|---|---|
-|Chance|0%-100%|0%|Chance of Lovers Spawning|
-|Lovers Suicide|true/false|true|Lovers commit suicide if the other dies.|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Lover.png)
+|Chance|0%-100%|0%|Chance of Detective Spawning|
 
 
 # Neutral Roles
@@ -480,9 +471,51 @@ The Poisoner is a role that can poison any player. At meetings, a player will se
 |Poison Cooldown|10s-60s|30s|The cooldown of Poisoning a player|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Poisoner.png)
 
+## Modifiers
+Modifiers are addons to existing roles that make the game a bit more fun!
+## V.I.P
+**Based off Town of Salem**<br/>
+The V.I.P is a Crewmate modifier which can only be seen by other Crewmates. If the V.I.P dies under any circumstance, victory will be granted to the Impostors.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of V.I.P Modifier|
+
+## Lovers
+**Based off Town of Salem**<br/>
+The Lovers are two players randomly selected who are in love with eachother. They are able to chat to eachother outside of meetings, and if one lover dies, the other will out of heartbreak. The lovers have their own win criteria, and can win if they are the last 2 out of 3 players left standing.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Lover Modifier|
+
+## Lovers
+**Based off Town of Salem**<br/>
+The Lovers are two players randomly selected who are in love with eachother. They are able to chat to eachother outside of meetings, and if one lover dies, the other will out of heartbreak. The lovers have their own win criteria, and can win if they are the last 2 out of 3 players left standing.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Lover Modifier|
+
+## Inverse
+**Based off Town of Us Drunk.**<br/>
+Inverse affects all players. Whatever direction they choose to walk in, they will walk in the opposite direction instead.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Inverse Modifier|
+
+## Observer
+The Observer affects one player who has full vision at all times, no matter what the game settings suggest.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Observer Modifier|
+
+## Torch
+**Based off Town of Us Torch.**<br/>
+The Torch affects one player who is not an impostor. They are able to have normal vision when lights are sabotaged.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Torch Modifier|
+
 # References:
 [**Reactor:**](https://github.com/NuclearPowered/Reactor) Mod Framework<br/>
-[**Daemon's Reactor**](https://github.com/DaemonBeast/Reactor) Mod Framework fork updated to the latest version<br/>
 [**Bepinex:**](https://github.com/BepInEx) Hooking into and patching the game.<br/>
 [**CooldownButton**](https://gist.github.com/gabriel-nsiqueira/827dea0a1cdc2210db6f9a045ec4ce0a) Creating and using a button.
 [**Town of Us:**](https://github.com/slushiegoose/Town-Of-Us) Role inspiration for Chronos and Swapper<br/>
