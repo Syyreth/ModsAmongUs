@@ -3,6 +3,8 @@
 
 Syrreth's ModsAmongUs Modpack adds in 40 fun roles into the game, based on Town Of Salem
 
+This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
+
 **Crewmate Roles:**<br/>
   [Bodyguard](#bodyguard)<br/>
   [Captain](#captain)<br/>
