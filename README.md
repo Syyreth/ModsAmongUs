@@ -108,7 +108,7 @@ The Captain is an unknown player who plays the game as a normal Crewmate. In mee
 |Chance|0%-100%|0%|Chance of Captain Spawning|
 |Captain Can Fix Sabotages|true/false|false|Captain can fix non-essential sabotages (lights/comms)|
 |Vote Multiplier|2x-5x|3x|How much each Captains vote is worth|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Captain.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Captain.PNG)
 
 ## Vigilante
 **Inspiration from Town of Salem and assistance from the Woodi-Sherrif Mod**<br/>
