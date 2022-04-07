@@ -1,5 +1,5 @@
 # Syyreth's ModsAmongUs Among Us Modpack
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Syyreth's%20ModsAmongUs%20Roles.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Syyreth's%20ModsAmongUs%20Roles.PNG)
 
 Syrreth's ModsAmongUs Modpack adds in 40 fun roles into the game, based on Town Of Salem
 
@@ -92,12 +92,14 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 **9:** Open up Among Us.<br/>
 **10:** First installation will take a small while, but after that, it should load up as normal.
 # Crewmate Roles:
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Crewmate.PNG)
 ## Bodyguard
 **Inspiration from Town of Salem**<br/>
 The Bodyguard is a crewmate role who can select one target to protect each round. If there target is attacked, the Bodyguard will swap places with them and die in their place.
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Bodyguard Spawning|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Bodyguard.PNG)
 
 
 ## Captain
@@ -118,7 +120,7 @@ The Vigilante is a crewmate which is capable of killing any other player in the 
 |Chance|0%-100%|0%|Chance of Vigilante Spawning|
 |Kill Cooldown|10s-60|30s|Kill Cooldown for Vigilante|
 |Vigilante Suicide|true/false|true|Vigilante kills himself after killing a crewmate|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Vigilante.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Vigilante.PNG)
 
 
 ## Guardian
@@ -129,7 +131,7 @@ The Guardian is a crewmate role who can protect any player they wish for 10 seco
 |Chance|0%-100%|0%|Chance of Guardian Spawning|
 |Protect Cooldown|10s-60s|30s|The cooldown of protecting a player|
 |Protect Duration|10s-60s|10s|How long a protection lasts for|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Guardian.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Guardian.PNG)
 
 
 ## Investigator
@@ -148,7 +150,7 @@ The Swapper is a role which activates in meetings. The Swapper can swap around 2
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Swapper Spawning|
 |Swap Bodies|true/false|true|Swap the targets bodies if none of them get voted out|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Swapper.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Swapper.PNG)
 
 
 ## Handyman
@@ -158,6 +160,7 @@ The Handyman is a crewmate which gains the ability to vent. Once per game, the H
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Handyman Spawning|
 |Repair Once Per|Round/Game|Round|How often the handyman can repair|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Handyman.PNG)
 
 
 
@@ -169,7 +172,7 @@ The Chronos is a crewmate which has the ability to rewind time by 3 seconds. Onc
 |Chance|0%-100%|0%|Chance of Chronos Spawning|
 |Rewind Cooldown|10s-60s|30s|The cooldown of rewinding time|
 |Duration Duration|2s-10s|5s|How long a rewind lasts for|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Chronos.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Chronos.PNG)
 
 
 ## Visionary
@@ -178,7 +181,7 @@ The Visionary is a player which gets psychic readings from meetings. On odd numb
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Visionary Spawning|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Visionary.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Visionary.PNG)
 
 ## Retributionist
 **Based off the Retributionist from Town of Salem**<br/>
@@ -187,7 +190,7 @@ The Retributionist is a role which can resurrect any player! After their button 
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Lookout Spawning|
 |Ressurection Timer|5s-15s|10s|The time taken to ressurect a player|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Retributionist.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Retributionist.PNG)
 
 ## Lookout
 **Based off the Lookout from Town of Salem**<br/>
@@ -199,7 +202,7 @@ The Lookout is a player who can Zoomout and view the whole map for 5 seconds at 
 |Zoomout Duration|3s-10s|5s|The duration for a Lookout to Zoomout|
 |Zoomout Sees in Lights|true/false|true|A Lookout can see when lights are off|
 |Zoomout Full Vision|true/false|true|A Lookout has full (5x) vision|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Lookout.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Lookout.PNG)
 
 ## Tracker
 **Based off the Tracker from Town of Salem. Idea provided by NOOB#8087 on discord, with a few adjustments.**<br/>
@@ -207,7 +210,7 @@ The Tracker is a player which can track one player per round. When the Tracker o
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Tracker Spawning|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Tracker.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Tracker.PNG)
 
 ## Pilot
 **Idea based on suggestion by Edward elric#9057 on discord.**<br/>
@@ -215,7 +218,7 @@ The Pilot is a player who is able to view admin at any point at any time without
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Pilot Spawning|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Pilot.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Pilot.PNG)
 
 ## Drainer
 **Idea based on suggestion by ballo5068#9308 on discord.**<br/>
@@ -223,7 +226,7 @@ The Drainer is a player who once per round, can block out the use of a vent once
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Drainer Spawning|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Drainer.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Drainer.PNG)
 
 ## Detective
 **Based of the Assassin from the Town Of Us Mod.**<br/>
@@ -231,9 +234,14 @@ The Detective is the crewmate equivalent of the assassin. They are able to guess
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Detective Spawning|
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Detective.PNG)
 
 
 # Neutral Roles
+
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Neutral.PNG)
+
+
 ## Executioner
 **Based off Town of Salem**<br/>
 The Executioner is a neutral role which wins from getting their target voted out in meetings. They must convince the other players that their target is bad and get them killed. If the target dies through any other means other than getting voted out, the Executioner will become a Jester and must get themselves voted out to win.
@@ -241,7 +249,7 @@ The Executioner is a neutral role which wins from getting their target voted out
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Executioner Spawning|
 |Executioner Becomes Jester|true/false|true|Executioner becomes Jester if their target dies|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Executioner.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Executioner.PNG)
 
 
 ## Jester
@@ -250,7 +258,7 @@ The Jester is a neutral role which wins from getting themselves voted out. They 
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Jester Spawning|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Jester.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Jester.PNG)
 
 ## Phantom
 **Based off Ottomated's Phanotm**<br/>
@@ -258,7 +266,7 @@ The Phantom is a role that is activated upon the death of the player. After the 
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Phantom Spawning|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Phantom.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Phantom.PNG)
 
 
 
@@ -270,7 +278,7 @@ The Arsonist is a neutral role which wins from dousing and killing other players
 |Chance|0%-100%|0%|Chance of Arsonist Spawning|
 |Douse Cooldown|10s-60s|30s|The cooldown of dousing a player|
 |Arsonist Can Vent|true/false|false|If the Arsonist can vent|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Arsonist.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Arsonist.PNG)
 
 
 ## Ghoul
@@ -279,7 +287,7 @@ The Ghoul is a neutral role who's ability gets granted after death. Once a Ghoul
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Ghoul Spawning|
 |Haunt Cooldown|10s-60s|20s|The cooldown of haunting a player|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Ghoul.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Ghoul.PNG)
 
 
 ## Plaguebearer
@@ -291,7 +299,7 @@ The Plaguebearer is a neutral role who is able to infect other players. Each rou
 |Infect Cooldown|10s-60s|30s|The cooldown of infecting a player|
 |Kill Cooldown|10s-60s|30s|The cooldown of killing a player|
 |Plaguebearer Can Vent|true/false|false|If the Plaguebearer can vent|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Plaguebearer.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Plaguebearer.PNG)
 
 ## Angel
 **Based off Town of Salem**<br/>
@@ -300,7 +308,7 @@ The Angel is a neutral role which aligns with the faction of their target, wheth
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Angel Spawning|
 |Protect Amount|1-3|1|The amount of times per game/meeting the Angel can protect their target|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Angel.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Angel.PNG)
 
 
 
@@ -312,7 +320,7 @@ The Serial Killer is a neutral role which can murder players alongside the Impos
 |Chance|0%-100%|0%|Chance of Serial Killer Spawning|
 |Kill Cooldown|10s-60s|30s|The cooldown of killing a player|
 |Serial Killer Can Vent|true/false|false|If the Serial Killer can vent|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Serial%20Killer.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Serial%20Killer.PNG)
 
 ## Survivor
 **Based off Survivor from Town of Salem**<br/>
@@ -320,17 +328,20 @@ The Survivor is a simple role that can win with either crewmates or impostors. A
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Survivor Spawning|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Survivor.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Survivor.PNG)
 
 ## Impostor Roles
 Please note that impostors are unable to win whilst the Serial Killer, Arsonist, Plaguebearer, or Coven are alive. They must be the last faction standing (excluding crewmates) to win.
+
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Impostor.PNG)
+
 ## Janitor
 **Based off Town of Salem**<br/>
 The Janitor is an impostor role which also has the ability to remove a body from the game. The Clean ability and the Kill button share a cooldown, meaning if one ability is used, both will go on cooldown, so the impostor can choose if they want to clean a body, or kill a player.
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Janitor Spawning|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Janitor.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Janitor.PNG)
 
 
 ## Morpher
@@ -342,7 +353,7 @@ The Morpher is a role which can sample any player in a game. After a certain amo
 |Sample Cooldown|10s-60s|30s|The cooldown of sampling a player|
 |Morph Cooldown|10s-60s|10s|The time before a player can Morph|
 |Morph Duration|10s-60s|10s|The duration of the Morph|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Morpher.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Morpher.PNG)
 
 
 ## Spy
@@ -351,7 +362,7 @@ The Spy is a role which can place down a camera anywhere in the map which can ON
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Spy Spawning|
 |Place Camera Per|Round/Game|Game|When the Spy can place a new Camera|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Spy.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Spy.PNG)
 
 
 ## Consort
@@ -361,7 +372,7 @@ The Consort is a role which can roleblock other players in meetings. If a player
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Spy Spawning|
 |Roleblocked can report bodies|true/false|false|If Roleblocked players can report dead bodies|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Consort.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Consort.PNG)
 
 
 ## The Stealth
@@ -371,7 +382,7 @@ The Stealth is a role which can temporarily go invisible for a short period of t
 |Chance|0%-100%|0%|Chance of Stealth Spawning|
 |Invisibility Cooldown|10s-60s|30s|The cooldown of turning Invisible|
 |Invisibilty Duration|5s-60s|10s|The duration of the vanish|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Stealth.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Stealth.PNG)
 
 ## Graverobber
 The Graverobber is a role which can move dead bodies. The Graverobber is able to drag around a dead body and move it to any location they wish, being able to drop it whenever. Whilst a body is being dragged however, it can still be reported.
@@ -379,7 +390,7 @@ The Graverobber is a role which can move dead bodies. The Graverobber is able to
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Graverobber Spawning|
 |Drag Body Cooldown|10s-60s|30s|The cooldown of dragging a body|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Graverobber.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Graverobber.PNG)
 
 ## Flashbang
 **Based of Grenadier from the Submarine Mod**<br/>
@@ -389,7 +400,7 @@ The Flashbang is a role which can flash players around them for 3 seconds. If a 
 |Chance|0%-100%|0%|Chance of FlashBang Spawning|
 |Flash Cooldown|10s-60s|30s|The cooldown of Flashing a player|
 |Flash Duration|1s-10s|3s|The duration of the Flash|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/FlashBang.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/FlashBang.PNG)
 
 ## Blackmailer
 **Based off Blackmailer from Town of Salem**<br/>
@@ -397,7 +408,7 @@ The Blackmailer is a player which can blackmail a player once per round. When a 
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Blackmailer Spawning|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Blackmailer.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Blackmailer.PNG)
 
 ## Bounty Hunter
 The Bounty Hunter is a player who has a certain player they must eliminate every time. If they successfully kill their bounty, another will be generated and their cooldown will be halved. If they kill someone other than their bounty, their cooldown will be doubled.
@@ -411,7 +422,7 @@ The Antitasker is a regular impostor but once per round, they can block a player
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of AntiTasker Spawning|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Anti%20Tasker.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Anti%20Tasker.PNG)
 
 ## Assassin
 BASED OF ASSASSIN FROM TOWN OF US MOD<br/>
@@ -419,13 +430,15 @@ The Assassin is a role, that once per game, can guess the role of another player
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Assassin Spawning|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Assassin.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Assassin.PNG)
 
 ## Coven Roles
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Coven.PNG)
 The Coven are a entirely new faction which play against everyone else. They must be the last faction standing (excluding crewmates) to win.
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Coven Over Impostor|True/False|False|Coven roles are chosen over the Impostor Roles|
+
 
 ## Witch
 **Based off Town of Salem**<br/>
@@ -435,7 +448,7 @@ The Witch is a role which can taglock any player. After a player is taglocked, t
 |Chance|0%-100%|0%|Chance of Witch Spawning|
 |Taglock Cooldown|10s-60s|30s|The cooldown of Taglocking a player|
 |Control Cooldown|5s-60s|10s|The cooldown of Controlling a player|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Witch.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Witch.PNG)
 
 ## Medusa
 **Based off Town of Salem**<br/>
@@ -444,7 +457,7 @@ The Medusa is a  role which wins from stoning and killing other players. They ar
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Medusa Spawning|
 |Stone Cooldown|10s-60s|30s|The cooldown of stoning a player|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Medusa.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Medusa.PNG)
 
 ## Potion Master
 **Based off Town of Salem**<br/>
@@ -453,7 +466,7 @@ The Potion Master is a role which has 3 potions they can use, all sharing a cool
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Potion Master Spawning|
 |Potion Cooldown|10s-60s|30s|The cooldown of using a Potion|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/PotionMaster.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/PotionMaster.PNG)
 
 ## Necromancer
 **Based off Town of Salem**<br/>
@@ -462,7 +475,7 @@ The Necromancer is a role which can remove any body similar to a janitor. They w
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Necromancer Spawning|
 |Possess Cooldown|10s-60s|30s|The cooldown of Possessing a body.|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Necromancer.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Necromancer.PNG)
 
 ## Hex Master
 **Based off Town of Salem**<br/>
@@ -471,7 +484,7 @@ The Hex Master is a role which can hex any chosen player. At meetings, a hexed p
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Hex Master Spawning|
 |Hex Cooldown|10s-60s|30s|The cooldown of Hexing a player|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/HexMaster.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/HexMaster.PNG)
 
 ## Poisoner
 **Based off Town of Salem**<br/>
@@ -480,7 +493,7 @@ The Poisoner is a role that can poison any player. At meetings, a player will se
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Poisoner Spawning|
 |Poison Cooldown|10s-60s|30s|The cooldown of Poisoning a player|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Poisoner.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Poisoner.PNG)
 
 ## Modifiers
 Modifiers are addons to existing roles that make the game a bit more fun!
