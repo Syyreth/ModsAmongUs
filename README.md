@@ -1,5 +1,5 @@
 # Syyreth's ModsAmongUs Among Us Modpack
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Syyreth's%20ModsAmongUs%20Roles.PNG)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/ModsAmongUs%20Roles.png)
 
 Syrreth's ModsAmongUs Modpack adds in 40 fun roles into the game, based on Town Of Salem
 
