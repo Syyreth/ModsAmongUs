@@ -75,7 +75,7 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 # Download
 **DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**<br/><br>
-[**2022.3.29 - V4.0.1**](https://github.com/Syyreth/ModsAmongUs/releases/download/4.0.1/ModsAmongUs.2022.3.29.zip)<br/>
+[**2022.3.29 - V4.0.2**](https://github.com/Syyreth/ModsAmongUs/releases/download/v4.0.2/ModsAmongUs.2022.3.29.zip)<br/>
 
 **Support:** https://discord.gg/r5ewmf7sqf</br>
 **Twitch:** https://www.twitch.tv/syyreth
