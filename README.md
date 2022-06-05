@@ -72,10 +72,20 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
   Lemon<br/>
   Peach<br/>
   Rainbow<br/>
+  
+  **Status Ailments**<br>
+  Status Ailments occur when a role inflicts their ability onto you, and can be seen in meetings. These are:<br>
+  Red Background - You have been roleblocked by the Consort in this meeting. <br>
+  Orange Name - You have been doused by the Arsonist throughout the game. <br>
+  Yellow-Gold Name - You have been infected by the Plaguebearer throughout the game.<br>
+  Purple Name - You have been hexed by the Hex Master throughout the game.<br>
+  Purple Background - You have been poisoned by the Poisoner and you will die when the meeting ends. <br>.
+  
+  In the case of being colourblind, or having multiple Status Ailments, you will also receive chat messages to tell you what has happened.
 
 # Download
 **DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**<br/><br>
-[**2022.3.29 - V4.0.3**](https://github.com/Syyreth/ModsAmongUs/releases/download/v4.0.3/ModsAmongUs.2022.3.29.zip)<br/>
+[**2022.3.29 - V4.0.4**](https://github.com/Syyreth/ModsAmongUs/releases/download/v4.0.4/ModsAmongUs.2022.3.29.zip)<br/>
 
 **Support:** https://discord.gg/r5ewmf7sqf</br>
 **Twitch:** https://www.twitch.tv/syyreth
@@ -141,7 +151,7 @@ The Investigator is a task based role, and on completion of their tasks, they wi
 |Chance|0%-100%|0%|Chance of Investigator Spawning|
 |Investigate Cooldown|10s-60s|30s|The cooldown of investigating a player|
 |Finish Tasks First|true/false|true|If the investigator is required to finish his tasks before investigating|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/investigator.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Investigator.PNG)
 
 ## Swapper
 **Inspiration from TownOfUs Mod**<br/>
@@ -343,19 +353,6 @@ The Janitor is an impostor role which also has the ability to remove a body from
 |Chance|0%-100%|0%|Chance of Janitor Spawning|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Janitor.PNG)
 
-
-## Morpher
-**Based off The Morphling from Ottomated's Mod**<br/>
-The Morpher is a role which can sample any player in a game. After a certain amount of time, they can transform into the sampled player and imitate them for a short period of time. However the Morpher cannot vent.
-|Settings|Range|Default|Description|
-|---|---|---|---|
-|Chance|0%-100%|0%|Chance of Morpher Spawning|
-|Sample Cooldown|10s-60s|30s|The cooldown of sampling a player|
-|Morph Cooldown|10s-60s|10s|The time before a player can Morph|
-|Morph Duration|10s-60s|10s|The duration of the Morph|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Morpher.PNG)
-
-
 ## Spy
 The Spy is a role which can place down a camera anywhere in the map which can ONLY be seen by Impostors. The placing button shares the same cooldown as the kill button so at the start of a round, the impostor must choose if they want to play first or kill first. Each impostor will then get access to view button and can access the Camera to see what's going on. If the Spy remains alone in Admin for 60 seconds in total (not consecutively), they can then Bug the Admin Map, giving each Impostor Remote access through their sabotage map.
 |Settings|Range|Default|Description|
@@ -400,7 +397,7 @@ The Flashbang is a role which can flash players around them for 3 seconds. If a 
 |Chance|0%-100%|0%|Chance of FlashBang Spawning|
 |Flash Cooldown|10s-60s|30s|The cooldown of Flashing a player|
 |Flash Duration|1s-10s|3s|The duration of the Flash|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/FlashBang.PNG)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Flashbang.PNG)
 
 ## Blackmailer
 **Based off Blackmailer from Town of Salem**<br/>
@@ -415,7 +412,7 @@ The Bounty Hunter is a player who has a certain player they must eliminate every
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Bounty Hunter Spawning|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Bounty%20Hunter.png)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Bounty%20Hunter.PNG)
 
 ## AntiTasker
 The Antitasker is a regular impostor but once per round, they can block a player from doing their tasks. A taskblocked player will be unable to complete their tasks or fix ANY sabotage, until a meeting is called.
@@ -466,7 +463,7 @@ The Potion Master is a role which has 3 potions they can use, all sharing a cool
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Potion Master Spawning|
 |Potion Cooldown|10s-60s|30s|The cooldown of using a Potion|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/PotionMaster.PNG)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Potion%20Master.PNG)
 
 ## Necromancer
 **Based off Town of Salem**<br/>
@@ -484,7 +481,7 @@ The Hex Master is a role which can hex any chosen player. At meetings, a hexed p
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Hex Master Spawning|
 |Hex Cooldown|10s-60s|30s|The cooldown of Hexing a player|
-![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/HexMaster.PNG)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Hex%20Master.PNG)
 
 ## Poisoner
 **Based off Town of Salem**<br/>
