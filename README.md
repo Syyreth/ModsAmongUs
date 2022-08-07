@@ -62,6 +62,7 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
   [Torch](#torch)<br/>
   
   **NEW Colors:**<br/>
+  Light<br/>
   Peach<br/>
   Mango<br/>
   Raspberry<br/>
@@ -72,6 +73,17 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
   Lemon<br/>
   Peach<br/>
   Rainbow<br/>
+  Shadow<br/>
+  Chocolate<br/>
+  Caramel<br/>
+  Plum<br/>
+  Olive<br/>
+  Navy<br/>
+  Ocean<br/>
+  Moss<br/>
+  Dijon<br/>
+  Darkbow<br/>
+  
   
   **Status Ailments**<br>
   Status Ailments occur when a role inflicts their ability onto you, and can be seen in meetings. These are:<br>
@@ -85,7 +97,7 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 # Download
 **DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**<br/><br>
-[**2022.3.29 - V4.0.4**](https://github.com/Syyreth/ModsAmongUs/releases/download/v4.0.4/ModsAmongUs.2022.3.29.zip)<br/>
+[**2022.7.12 - V4.0.5**](https://github.com/Syyreth/ModsAmongUs/releases/download/v4.0.5/ModsAmongUs.2022.7.12.zip)<br/>
 
 **Support:** https://discord.gg/r5ewmf7sqf</br>
 **Twitch:** https://www.twitch.tv/syyreth
