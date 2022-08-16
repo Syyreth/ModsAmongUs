@@ -62,27 +62,8 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
   [Torch](#torch)<br/>
   
   **NEW Colors:**<br/>
-  Light<br/>
-  Peach<br/>
-  Mango<br/>
-  Raspberry<br/>
-  Pear<br/>
-  Blueberry<br/>
-  Bubblegum<br/>
-  Apple<br/>
-  Lemon<br/>
-  Peach<br/>
-  Rainbow<br/>
-  Shadow<br/>
-  Chocolate<br/>
-  Caramel<br/>
-  Plum<br/>
-  Olive<br/>
-  Navy<br/>
-  Ocean<br/>
-  Moss<br/>
-  Dijon<br/>
-  Darkbow<br/>
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/GameColours.PNG)
+![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/ModColours.PNG)
   
   
   **Status Ailments**<br>
