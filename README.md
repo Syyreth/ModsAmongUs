@@ -80,8 +80,8 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 **Discord:** https://discord.gg/r5ewmf7sqf</br>
 **Twitch:** https://www.twitch.tv/syyreth</br>
-**Youtube:**https://www.youtube.com/channel/UCVvdXbnWuCmuET6q1-fRi_Q</br>
-**Twitter:**https://twitter.com/syyreth1</br>
+**Youtube:** https://www.youtube.com/channel/UCVvdXbnWuCmuET6q1-fRi_Q</br>
+**Twitter:** https://twitter.com/syyreth1</br>
 **DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**<br/><br>
 [**2022.7.12 - V4.0.5**](https://github.com/Syyreth/ModsAmongUs/releases/download/v4.0.5/ModsAmongUs.2022.7.12.zip)<br/>
 
