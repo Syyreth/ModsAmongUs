@@ -84,7 +84,7 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 **Twitter:** https://twitter.com/syyreth1</br><br>
 
 **DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**<br/><br>
-[**2022.8.24 - V4.0.5**](https://github.com/Syyreth/ModsAmongUs/releases/download/v4.0.6/ModsAmongUs.2022.8.24.zip)<br/>
+[**2022.8.24 - V4.0.6**](https://github.com/Syyreth/ModsAmongUs/releases/download/v4.0.6/ModsAmongUs.2022.8.24.zip)<br/>
 
 # Installation Guide
 **1:** Open Steam and locate Among Us in your library.<br/>
